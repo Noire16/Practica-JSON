@@ -1,0 +1,122 @@
+<Mercadona>
+    <direccion>Calle Sinfonía, 20, 28054,Madrid</direccion>
+    <geolocalizacion>"40°22'23.5"N 3°46'26.8"W"</geolocalizacion>
+    <productos>
+        <seccion>Huevos, leche y mantequilla
+            <productos>
+                <nombre>Huevos
+                    <descripcion>Huevos frescos grandes L</descripcion>
+                    <marca>Hacendado </marca>
+                    <unidades>12</unidades>
+                    <unidadMedida>L</unidadMedida>
+                    <precio> 1.45</precio>
+                    <oferta>No tiene</oferta>
+                    <descripcionOferta></descripcionOferta>
+                    <fechainiOferta></fechainiOferta>
+                    <fechafinOferta></fechafinOferta>
+                    <adquirido>false</adquirido>
+                </nombre>
+                <nombre>Leche
+                    <descripcion>Leche semidesnatada</descripcion>
+                    <marca>Hacendado </marca>
+                    <unidades>6</unidades>
+                    <unidadMedida>1L</unidadMedida>
+                    <precio> 3.48</precio>
+                    <oferta>No tiene</oferta>
+                    <descripcionOferta></descripcionOferta>
+                    <fechainiOferta></fechainiOferta>
+                    <fechafinOferta></fechafinOferta>
+                    <adquirido>false</adquirido>
+                </nombre>
+            </productos>
+        </seccion>
+        <seccion>Yogures y helados
+            <productos>
+                <nombre>Yogur frutos del bosque
+                    <descripcion>Yogur cremoso sabor frutos del bosque</descripcion>
+                    <marca>Vitalínea</marca>
+                    <unidades>6</unidades>
+                    <unidadMedida>125gr</unidadMedida>
+                    <precio> 2.99</precio>
+                    <oferta>Oferta disponible</oferta>
+                    <descripcionOferta>3x2</descripcionOferta>
+                    <fechainiOferta>05/04/2021</fechainiOferta>
+                    <fechafinOferta>09/04/2021</fechafinOferta>
+                    <adquirido>false</adquirido>
+                </nombre>
+            </productos>
+        </seccion>
+        <seccion>Arroz, legumbres y pastas
+            <productos>
+                <nombre>Arroz
+                    <descripcion>Arroz redondo</descripcion>
+                    <marca>Hacendado </marca>
+                    <unidades>1</unidades>
+                    <unidadMedida>1Kg</unidadMedida>
+                    <precio> 0.79</precio>
+                    <oferta>No tiene</oferta>
+                    <descripcionOferta></descripcionOferta>
+                    <fechainiOferta></fechainiOferta>
+                    <fechafinOferta></fechafinOferta>
+                    <adquirido>false</adquirido>
+                </nombre>
+                <nombre>Hélices
+                    <descripcion>Hélices con vegetales</descripcion>
+                    <marca>Hacendado </marca>
+                    <unidades>1</unidades>
+                    <unidadMedida>1Kg</unidadMedida>
+                    <precio> 1</precio>
+                    <oferta>Oferta disponible</oferta>
+                    <descripcionOferta>-10%</descripcionOferta>
+                    <fechainiOferta>29/03/2021</fechainiOferta>
+                    <fechafinOferta>02/04/2021</fechafinOferta>
+                    <adquirido>false</adquirido>
+                </nombre>
+            </productos>
+        </seccion>
+        <seccion>Cacao y desayuno
+            <productos>
+                <nombre>Cola-cao
+                    <descripcion>Cola cao soluble original</descripcion>
+                    <marca>Cola Cao</marca>
+                    <unidades>1</unidades>
+                    <unidadMedida>760gr</unidadMedida>
+                    <precio> 4.15</precio>
+                    <oferta>No tiene</oferta>
+                    <descripcionOferta></descripcionOferta>
+                    <fechainiOferta></fechainiOferta>
+                    <fechafinOferta></fechafinOferta>
+                    <adquirido>false</adquirido>
+                </nombre>
+                <nombre>Cacao
+                    <descripcion>Cacao puro en polvo</descripcion>
+                    <marca>La chocolatera </marca>
+                    <unidades>1</unidades>
+                    <unidadMedida>250gr</unidadMedida>
+                    <precio> 1</precio>
+                    <oferta>No tiene</oferta>
+                    <descripcionOferta></descripcionOferta>
+                    <fechainiOferta></fechainiOferta>
+                    <fechafinOferta></fechafinOferta>
+                    <adquirido>false</adquirido>
+                </nombre>
+            </productos>
+        </seccion>
+        <seccion>Carnicería
+            <productos>
+                <nombre>Bandeja filetes de pollo
+                    <descripcion>Filetes pechuga de pollo corte fino</descripcion>
+                    <marca>Hacendado </marca>
+                    <unidades>10</unidades>
+                    <unidadMedida>500gr</unidadMedida>
+                    <precio> 4.05</precio>
+                    <oferta>No tiene</oferta>
+                    <descripcionOferta></descripcionOferta>
+                    <fechainiOferta></fechainiOferta>
+                    <fechafinOferta></fechafinOferta>
+                    <adquirido>false</adquirido>
+                </nombre>
+            </productos>
+        </seccion>
+    </productos>
+</Mercadona>

@@ -1,0 +1,313 @@
+{
+    "Lista de la compra": [
+        {
+        "Mercadona": [
+            {
+                "direccion": "Calle Sinfonía, 20, 28054,Madrid",
+                "geolocalizacion": "40°22'23.5\"N 3°46'26.8\"W",
+                "productos":[
+                    {
+                        "seccion": "Huevos, leche y mantequilla",
+                        "productos":[
+                            {
+                            "nombre": "Huevos",
+                            "descripcion":"Huevos frescos grandes L",
+                            "marca": "Hacendado",
+                            "unidades":"12",
+                            "unidadMedida": "L",
+                            "precio": 1.45,
+                            "oferta":false,
+                            "descripcionOferta":null,
+                            "fechainiOferta":null,
+                            "fechafinOferta":null,
+                            "adquirido":false
+                            },
+                            {
+                            "nombre": "Leche",
+                            "descripcion":"Leche semidesnatada",
+                            "marca":"Hacendado",
+                            "unidades":"6",
+                            "unidadMedida": "1L",
+                            "precio": 3.48,
+                            "oferta":false,
+                            "descripcionoferta":null,
+                            "fechainiOferta":null,
+                            "fechafinOferta":null,
+                            "adquirido":false
+                            }
+                        ]
+                    },
+                    {
+                        "seccion": "Yogures y helados",
+                        "productos":[
+                            {
+                                "nombre": "Yogur frutos del bosque",
+                                "descripcion":"Yogur cremoso sabor frutos del bosque",
+                                "marca":"Vitalínea",
+                                "unidades":"6",
+                                "unidadMedida": "125gr",
+                                "precio": 2.99,
+                                "oferta":true,
+                                "descripcionoferta":"3x2",
+                                "fechainiOferta":"05/04/2021",
+                                "fechafinOferta":"09/04/2021",
+                                "adquirido":false
+                            }
+                        ]
+                    },
+                    {
+                        "seccion": "Arroz, legumbres y pasta",
+                        "productos":[
+                            {
+                                "nombre": "Arroz",
+                                "descripcion":"Arroz redondo",
+                                "marca":"Hacendado",
+                                "unidades":"1",
+                                "unidadMedida": "1kg",
+                                "precio": 0.79,
+                                "oferta":false,
+                                "descripcionoferta":null,
+                                "fechainiOferta":null,
+                                "fechafinOferta":null,
+                                "adquirido":false
+                            },
+                            {
+                                "nombre": "Hélices",
+                                "descripcion":"Hélices con vegetales",
+                                "marca":"Hacendado",
+                                "unidades":"1",
+                                "unidadMedida": "1Kg",
+                                "precio": 1,
+                                "oferta":true,
+                                "descripcionoferta":"-10%",
+                                "fechainiOferta":"29/03/2021",
+                                "fechafinOferta":"02/04/2021",
+                                "adquirido":false
+                            }
+                        ]
+                    },
+                    {
+                        "seccion": "Cacao y desayuno",
+                        "productos":[
+                            {
+                                "nombre": "Cola-cao",
+                                "descripcion":"Cola cao soluble original",
+                                "marca":"Cola Cao",
+                                "unidades":"1",
+                                "unidadMedida": "760gr",
+                                "precio": 4.15,
+                                "oferta":false,
+                                "descripcionoferta":null,
+                                "fechainiOferta":null,
+                                "fechafinOferta":null,
+                                "adquirido":false
+                            },
+                            {
+                                "nombre": "Cacao",
+                                "descripcion":"Cacao puro en polvo",
+                                "marca":"La chocolatera",
+                                "unidades":"1",
+                                "unidadMedida": "250gr",
+                                "precio": 2.70,
+                                "oferta":false,
+                                "descripcionoferta":null,
+                                "fechainiOferta":null,
+                                "fechafinOferta":null,
+                                "adquirido":false
+                            }
+                        ]
+                    },
+                    {
+                        "seccion": "Carnicería",
+                        "productos":[
+                            {
+                                "nombre": "Bandeja filetes de pollo",
+                                "descripcion":"Filetes pechuga de pollo corte fino",
+                                "marca":"Hacendado",
+                                "unidades":"10",
+                                "unidadMedida": "500gr",
+                                "precio": 4.05,
+                                "oferta":false,
+                                "descripcionoferta":null,
+                                "fechainiOferta":null,
+                                "fechafinOferta":null,
+                                "adquirido":false
+                            }
+                        ]
+                    }
+                ]
+            }           
+        ],
+        "Lidl": [
+            {
+                "direccion": "Calle Calderilla, 1, 28054, Madrid",
+                "geolocalizacion": "40°21'51.4\"N 3°44'10.5\"W",
+                "productos":[
+                    {
+                        "seccion": "Huevos, leche y mantequilla",
+                        "productos":[
+                            {
+                            "nombre": "Mantequilla Bio",
+                            "descripcion":"Mantequilla Bio sin sal añadida",
+                            "marca": "Milbona",
+                            "unidades":"1",
+                            "unidadMedida": "200gr",
+                            "precio": 1.69,
+                            "oferta":false,
+                            "descripcionoferta":null,
+                            "fechainiOferta":null,
+                            "fechafinOferta":null,
+                            "adquirido":false
+                            }
+                        ]
+                    },
+                    {
+                        "seccion": "Arroz, legumbres y pasta",
+                        "productos":[
+                            {
+                                "nombre": "Garbanzos",
+                                "descripcion":"Garbanzos precocinados",
+                                "marca":"Campo Largo",
+                                "unidades":"1",
+                                "unidadMedida": "580ml",
+                                "precio": 0.66,
+                                "oferta":true,
+                                "descripcionoferta":"-21%",
+                                "fechainiOferta":"12/04/2021",
+                                "fechafinOferta":"23/04/2021",
+                                "adquirido":false
+                            }
+                        ]
+                    },
+                    {
+                        "seccion": "Panadería",
+                        "productos":[
+                            {
+                                "nombre": "Pan de centeno",
+                                "descripcion":"Pan de centeno con semillas",
+                                "marca":"Milbona",
+                                "unidades":"1",
+                                "unidadMedida": "750gr",
+                                "precio": 1.79,
+                                "oferta":true,
+                                "descripcionoferta":"-44%",
+                                "fechainiOferta":"19/04/2021",
+                                "fechafinOferta":"23/04/2021",
+                                "adquirido":false
+                            }
+                        ]
+                    },
+                    {
+                        "seccion": "Frutas y verduras",
+                        "productos":[
+                            {
+                                "nombre": "Calabacín",
+                                "descripcion":"Calabacín Bio Organic",
+                                "marca":"Milbona",
+                                "unidades":"3",
+                                "unidadMedida": "1Kg",
+                                "precio": 1.89,
+                                "oferta":true,
+                                "descripcionoferta":"-31%",
+                                "fechainiOferta":"05/04/2021",
+                                "fechafinOferta":"09/04/2021",
+                                "adquirido":false
+                            },
+                            {
+                                "nombre": "Manzanas",
+                                "descripcion":"Manzana roja",
+                                "marca":"Envy",
+                                "unidades":"8",
+                                "unidadMedida": "790gr",
+                                "precio": 1.99,
+                                "oferta":true,
+                                "descripcionoferta":"-30%",
+                                "fechainiOferta":"08/04/2021",
+                                "fechafinOferta":"15/04/2021",
+                                "adquirido":false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]           
+        },
+        {
+        "Alcampo": [
+            {
+                "direccion": "Calle de Mondragón, S/N, 28917 Madrid",
+                "geolocalizacion": "40°21'35.1\"N 3°46'37.1\"W",
+                "productos":[
+                    {
+                        "seccion": "Platos preparados",
+                        "productos":[
+                            {
+                                "nombre": "Pizza 4 quesos",
+                                "descripcion":"Pizza 4 quesos cocida al horno de piedra",
+                                "marca": "Casa Tarradellas",
+                                "unidades":"1",
+                                "unidadMedida": "390gr",
+                                "precio": 2.63,
+                                "oferta":false,
+                                "descripcionoferta":null,
+                                "fechainiOferta":null,
+                                "fechafinOferta":null,
+                                "adquirido":false
+                            },
+                            {
+                                "nombre": "Pizza jamón y queso",
+                                "descripcion":"Pizza jamón y queso cocida al horno de piedra",
+                                "marca": "Casa Tarradellas",
+                                "unidades":"1",
+                                "unidadMedida": "405gr",
+                                "precio": 2.63,
+                                "oferta":false,
+                                "descripcionoferta":null,
+                                "fechainiOferta":null,
+                                "fechafinOferta":null,
+                                "adquirido":false
+                                }
+                        ]
+                    },
+                    {
+                        "seccion": "Conservas",
+                        "productos":[
+                            {
+                                "nombre": "Atún",
+                                "descripcion":"Atún claro en aceite de oliva virgen extra",
+                                "marca":"Isabel",
+                                "unidades":"6",
+                                "unidadMedida": "52gr",
+                                "precio": 4.54,
+                                "oferta":false,
+                                "descripcionoferta":null,
+                                "fechainiOferta":null,
+                                "fechafinOferta":null,
+                                "adquirido":false
+                            }
+                        ]
+                    },
+                    {
+                        "seccion": "Aceites y salsas",
+                        "productos":[
+                            {
+                                "nombre": "Aceite de oliva",
+                                "descripcion":"Aceite de oliva virgen extra",
+                                "marca":"Carbonell",
+                                "unidades":"1",
+                                "unidadMedida": "5L",
+                                "precio": 14.99,
+                                "oferta":true,
+                                "descripcionoferta":"-20%",
+                                "fechainiOferta": "05/04/2021",
+                                "fechafinOferta":"16/04/2021",
+                                "adquirido":false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+        }
+    ]
+}
